@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BRANKAS</string>
+    <string name="priceFormat">Rp. %.3f</string>
+</resources>
